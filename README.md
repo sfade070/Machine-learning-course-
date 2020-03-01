@@ -1,1 +1,1 @@
-# Machine-learning-course-
+# Machine-learning-course-uOttawa
